@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//local pc update
+
 int my_strlen(char *s)
 {
    char *p = s;
