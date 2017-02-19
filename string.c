@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+//removed on site comment from pc
 //local pc update
 
 int my_strlen(char *s)
